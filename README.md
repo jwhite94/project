@@ -1,1 +1,3 @@
-# project
+# Data Science Toolbox Assignment 6
+
+This repo serves as my submission for the UBC Data Science Toolbox Assignment 6. The project files were forked from [this repo](https://github.com/yuliaUU/files_to_copy) and were then renamed and organized into the current folder structure. The required packages were installed in a new conda environment which can be copied from the environment.yaml file in this repo.
